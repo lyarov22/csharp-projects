@@ -1,0 +1,11 @@
+C:\Users\dyudy\Desktop\projects c#\workToFiles\obj\Debug\workToFiles.csproj.AssemblyReference.cache
+C:\Users\dyudy\Desktop\projects c#\workToFiles\obj\Debug\workToFiles.csproj.SuggestedBindingRedirects.cache
+C:\Users\dyudy\Desktop\projects c#\workToFiles\obj\Debug\workToFiles.Form1.resources
+C:\Users\dyudy\Desktop\projects c#\workToFiles\obj\Debug\workToFiles.Properties.Resources.resources
+C:\Users\dyudy\Desktop\projects c#\workToFiles\obj\Debug\workToFiles.csproj.GenerateResource.cache
+C:\Users\dyudy\Desktop\projects c#\workToFiles\obj\Debug\workToFiles.csproj.CoreCompileInputs.cache
+C:\Users\dyudy\Desktop\projects c#\workToFiles\bin\Debug\workToFiles.exe.config
+C:\Users\dyudy\Desktop\projects c#\workToFiles\bin\Debug\workToFiles.exe
+C:\Users\dyudy\Desktop\projects c#\workToFiles\bin\Debug\workToFiles.pdb
+C:\Users\dyudy\Desktop\projects c#\workToFiles\obj\Debug\workToFiles.exe
+C:\Users\dyudy\Desktop\projects c#\workToFiles\obj\Debug\workToFiles.pdb

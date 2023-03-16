@@ -1,0 +1,16 @@
+C:\Users\dyudy\Desktop\projects c#\simpleNotepad3\bin\Release\simpleNotepad3.exe.config
+C:\Users\dyudy\Desktop\projects c#\simpleNotepad3\bin\Release\simpleNotepad3.exe
+C:\Users\dyudy\Desktop\projects c#\simpleNotepad3\bin\Release\simpleNotepad3.pdb
+C:\Users\dyudy\Desktop\projects c#\simpleNotepad3\obj\Release\simpleNotepad3.csproj.AssemblyReference.cache
+C:\Users\dyudy\Desktop\projects c#\simpleNotepad3\obj\Release\simpleNotepad3.csproj.SuggestedBindingRedirects.cache
+C:\Users\dyudy\Desktop\projects c#\simpleNotepad3\obj\Release\simpleNotepad3.Form1.resources
+C:\Users\dyudy\Desktop\projects c#\simpleNotepad3\obj\Release\simpleNotepad3.Form2.resources
+C:\Users\dyudy\Desktop\projects c#\simpleNotepad3\obj\Release\simpleNotepad3.Properties.Resources.resources
+C:\Users\dyudy\Desktop\projects c#\simpleNotepad3\obj\Release\simpleNotepad3.csproj.GenerateResource.cache
+C:\Users\dyudy\Desktop\projects c#\simpleNotepad3\obj\Release\simpleNotepad3.csproj.CoreCompileInputs.cache
+C:\Users\dyudy\Desktop\projects c#\simpleNotepad3\obj\Release\simpleNotepad3.exe
+C:\Users\dyudy\Desktop\projects c#\simpleNotepad3\obj\Release\simpleNotepad3.pdb
+C:\Users\dyudy\Desktop\projects c#\simpleNotepad3\bin\Release\simpleNotepad3.exe.manifest
+C:\Users\dyudy\Desktop\projects c#\simpleNotepad3\bin\Release\simpleNotepad3.application
+C:\Users\dyudy\Desktop\projects c#\simpleNotepad3\obj\Release\simpleNotepad3.exe.manifest
+C:\Users\dyudy\Desktop\projects c#\simpleNotepad3\obj\Release\simpleNotepad3.application

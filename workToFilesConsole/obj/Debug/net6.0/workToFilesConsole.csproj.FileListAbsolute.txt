@@ -1,0 +1,15 @@
+C:\Users\dyudy\Desktop\projects c#\workToFilesConsole\bin\Debug\net6.0\workToFilesConsole.exe
+C:\Users\dyudy\Desktop\projects c#\workToFilesConsole\bin\Debug\net6.0\workToFilesConsole.deps.json
+C:\Users\dyudy\Desktop\projects c#\workToFilesConsole\bin\Debug\net6.0\workToFilesConsole.runtimeconfig.json
+C:\Users\dyudy\Desktop\projects c#\workToFilesConsole\bin\Debug\net6.0\workToFilesConsole.dll
+C:\Users\dyudy\Desktop\projects c#\workToFilesConsole\bin\Debug\net6.0\workToFilesConsole.pdb
+C:\Users\dyudy\Desktop\projects c#\workToFilesConsole\obj\Debug\net6.0\workToFilesConsole.csproj.AssemblyReference.cache
+C:\Users\dyudy\Desktop\projects c#\workToFilesConsole\obj\Debug\net6.0\workToFilesConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dyudy\Desktop\projects c#\workToFilesConsole\obj\Debug\net6.0\workToFilesConsole.AssemblyInfoInputs.cache
+C:\Users\dyudy\Desktop\projects c#\workToFilesConsole\obj\Debug\net6.0\workToFilesConsole.AssemblyInfo.cs
+C:\Users\dyudy\Desktop\projects c#\workToFilesConsole\obj\Debug\net6.0\workToFilesConsole.csproj.CoreCompileInputs.cache
+C:\Users\dyudy\Desktop\projects c#\workToFilesConsole\obj\Debug\net6.0\workToFilesConsole.dll
+C:\Users\dyudy\Desktop\projects c#\workToFilesConsole\obj\Debug\net6.0\refint\workToFilesConsole.dll
+C:\Users\dyudy\Desktop\projects c#\workToFilesConsole\obj\Debug\net6.0\workToFilesConsole.pdb
+C:\Users\dyudy\Desktop\projects c#\workToFilesConsole\obj\Debug\net6.0\workToFilesConsole.genruntimeconfig.cache
+C:\Users\dyudy\Desktop\projects c#\workToFilesConsole\obj\Debug\net6.0\ref\workToFilesConsole.dll

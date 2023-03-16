@@ -1,0 +1,46 @@
+//A(10) B[10] - целые. Найти С = А + В
+const int n = 10;
+int sum = 0;
+
+int[]A = new int[n];
+int[]B = new int[n];
+
+Console.WriteLine("Массив А из " + n + " элементов");
+for (int i = 0; i < n; i++) //заполнение массива A
+{
+    ;
+    A[i] = Convert.ToInt32(Console.ReadLine()); 
+}
+
+Console.WriteLine("Массив В из " + n + " элементов");
+for (int i = 0; i < n; i++) //заполнение массива B
+{
+    
+    B[i] = Convert.ToInt32(Console.ReadLine());
+}
+
+int sc = 0;
+
+for (int i = 0; i < n; i++) // C1 = A1 + B1
+{
+   sc += 1;
+   sum = A[i] + B[i];
+
+    Console.WriteLine(sc + " элем равен " + sum);
+}
+
+int num1 = 0;
+int num2 = 0;
+int c = 0;
+
+for (int i = 0; i < n; i++) // C = A + B
+{
+    num1 += A[i];
+    num2 += B[i];
+
+}
+
+c = num1 + num2;
+Console.WriteLine();
+Console.WriteLine("Сумма элем А и B = " + c);
+

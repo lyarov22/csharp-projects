@@ -1,0 +1,12 @@
+C:\Users\dyudy\Desktop\projects c#\bd\bin\Debug\Account.mdb
+C:\Users\dyudy\Desktop\projects c#\bd\bin\Debug\bd.exe.config
+C:\Users\dyudy\Desktop\projects c#\bd\bin\Debug\bd.exe
+C:\Users\dyudy\Desktop\projects c#\bd\bin\Debug\bd.pdb
+C:\Users\dyudy\Desktop\projects c#\bd\obj\Debug\bd.csproj.AssemblyReference.cache
+C:\Users\dyudy\Desktop\projects c#\bd\obj\Debug\bd.csproj.SuggestedBindingRedirects.cache
+C:\Users\dyudy\Desktop\projects c#\bd\obj\Debug\bd.Form1.resources
+C:\Users\dyudy\Desktop\projects c#\bd\obj\Debug\bd.Properties.Resources.resources
+C:\Users\dyudy\Desktop\projects c#\bd\obj\Debug\bd.csproj.GenerateResource.cache
+C:\Users\dyudy\Desktop\projects c#\bd\obj\Debug\bd.csproj.CoreCompileInputs.cache
+C:\Users\dyudy\Desktop\projects c#\bd\obj\Debug\bd.exe
+C:\Users\dyudy\Desktop\projects c#\bd\obj\Debug\bd.pdb

@@ -1,0 +1,11 @@
+C:\Users\dyudy\Desktop\projects c#\abramyan2\bin\Debug\abramyan2.exe.config
+C:\Users\dyudy\Desktop\projects c#\abramyan2\bin\Debug\abramyan2.exe
+C:\Users\dyudy\Desktop\projects c#\abramyan2\bin\Debug\abramyan2.pdb
+C:\Users\dyudy\Desktop\projects c#\abramyan2\obj\Debug\abramyan2.csproj.AssemblyReference.cache
+C:\Users\dyudy\Desktop\projects c#\abramyan2\obj\Debug\abramyan2.csproj.SuggestedBindingRedirects.cache
+C:\Users\dyudy\Desktop\projects c#\abramyan2\obj\Debug\abramyan2.Form1.resources
+C:\Users\dyudy\Desktop\projects c#\abramyan2\obj\Debug\abramyan2.Properties.Resources.resources
+C:\Users\dyudy\Desktop\projects c#\abramyan2\obj\Debug\abramyan2.csproj.GenerateResource.cache
+C:\Users\dyudy\Desktop\projects c#\abramyan2\obj\Debug\abramyan2.csproj.CoreCompileInputs.cache
+C:\Users\dyudy\Desktop\projects c#\abramyan2\obj\Debug\abramyan2.exe
+C:\Users\dyudy\Desktop\projects c#\abramyan2\obj\Debug\abramyan2.pdb

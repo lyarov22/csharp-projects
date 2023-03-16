@@ -1,0 +1,11 @@
+C:\Users\dyudy\Desktop\projects c#\encryption\bin\Release\encryption.exe.config
+C:\Users\dyudy\Desktop\projects c#\encryption\bin\Release\encryption.exe
+C:\Users\dyudy\Desktop\projects c#\encryption\bin\Release\encryption.pdb
+C:\Users\dyudy\Desktop\projects c#\encryption\obj\Release\encryption.csproj.AssemblyReference.cache
+C:\Users\dyudy\Desktop\projects c#\encryption\obj\Release\encryption.csproj.SuggestedBindingRedirects.cache
+C:\Users\dyudy\Desktop\projects c#\encryption\obj\Release\encryption.Form1.resources
+C:\Users\dyudy\Desktop\projects c#\encryption\obj\Release\encryption.Properties.Resources.resources
+C:\Users\dyudy\Desktop\projects c#\encryption\obj\Release\encryption.csproj.GenerateResource.cache
+C:\Users\dyudy\Desktop\projects c#\encryption\obj\Release\encryption.csproj.CoreCompileInputs.cache
+C:\Users\dyudy\Desktop\projects c#\encryption\obj\Release\encryption.exe
+C:\Users\dyudy\Desktop\projects c#\encryption\obj\Release\encryption.pdb

@@ -1,0 +1,13 @@
+C:\Users\dyudy\Desktop\projects c#\gunaTEST\bin\Debug\gunaTEST.exe.config
+C:\Users\dyudy\Desktop\projects c#\gunaTEST\bin\Debug\gunaTEST.exe
+C:\Users\dyudy\Desktop\projects c#\gunaTEST\bin\Debug\gunaTEST.pdb
+C:\Users\dyudy\Desktop\projects c#\gunaTEST\bin\Debug\Guna.UI2.dll
+C:\Users\dyudy\Desktop\projects c#\gunaTEST\obj\Debug\gunaTEST.csproj.AssemblyReference.cache
+C:\Users\dyudy\Desktop\projects c#\gunaTEST\obj\Debug\gunaTEST.csproj.SuggestedBindingRedirects.cache
+C:\Users\dyudy\Desktop\projects c#\gunaTEST\obj\Debug\gunaTEST.Form1.resources
+C:\Users\dyudy\Desktop\projects c#\gunaTEST\obj\Debug\gunaTEST.Properties.Resources.resources
+C:\Users\dyudy\Desktop\projects c#\gunaTEST\obj\Debug\gunaTEST.csproj.GenerateResource.cache
+C:\Users\dyudy\Desktop\projects c#\gunaTEST\obj\Debug\gunaTEST.csproj.CoreCompileInputs.cache
+C:\Users\dyudy\Desktop\projects c#\gunaTEST\obj\Debug\gunaTEST.csproj.CopyComplete
+C:\Users\dyudy\Desktop\projects c#\gunaTEST\obj\Debug\gunaTEST.exe
+C:\Users\dyudy\Desktop\projects c#\gunaTEST\obj\Debug\gunaTEST.pdb

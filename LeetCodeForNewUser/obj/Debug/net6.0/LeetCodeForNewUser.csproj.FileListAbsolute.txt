@@ -1,0 +1,15 @@
+C:\Users\dyudy\Desktop\projects c#\LeetCodeForNewUser\bin\Debug\net6.0\LeetCodeForNewUser.exe
+C:\Users\dyudy\Desktop\projects c#\LeetCodeForNewUser\bin\Debug\net6.0\LeetCodeForNewUser.deps.json
+C:\Users\dyudy\Desktop\projects c#\LeetCodeForNewUser\bin\Debug\net6.0\LeetCodeForNewUser.runtimeconfig.json
+C:\Users\dyudy\Desktop\projects c#\LeetCodeForNewUser\bin\Debug\net6.0\LeetCodeForNewUser.dll
+C:\Users\dyudy\Desktop\projects c#\LeetCodeForNewUser\bin\Debug\net6.0\LeetCodeForNewUser.pdb
+C:\Users\dyudy\Desktop\projects c#\LeetCodeForNewUser\obj\Debug\net6.0\LeetCodeForNewUser.csproj.AssemblyReference.cache
+C:\Users\dyudy\Desktop\projects c#\LeetCodeForNewUser\obj\Debug\net6.0\LeetCodeForNewUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dyudy\Desktop\projects c#\LeetCodeForNewUser\obj\Debug\net6.0\LeetCodeForNewUser.AssemblyInfoInputs.cache
+C:\Users\dyudy\Desktop\projects c#\LeetCodeForNewUser\obj\Debug\net6.0\LeetCodeForNewUser.AssemblyInfo.cs
+C:\Users\dyudy\Desktop\projects c#\LeetCodeForNewUser\obj\Debug\net6.0\LeetCodeForNewUser.csproj.CoreCompileInputs.cache
+C:\Users\dyudy\Desktop\projects c#\LeetCodeForNewUser\obj\Debug\net6.0\LeetCodeForNewUser.dll
+C:\Users\dyudy\Desktop\projects c#\LeetCodeForNewUser\obj\Debug\net6.0\refint\LeetCodeForNewUser.dll
+C:\Users\dyudy\Desktop\projects c#\LeetCodeForNewUser\obj\Debug\net6.0\LeetCodeForNewUser.pdb
+C:\Users\dyudy\Desktop\projects c#\LeetCodeForNewUser\obj\Debug\net6.0\LeetCodeForNewUser.genruntimeconfig.cache
+C:\Users\dyudy\Desktop\projects c#\LeetCodeForNewUser\obj\Debug\net6.0\ref\LeetCodeForNewUser.dll

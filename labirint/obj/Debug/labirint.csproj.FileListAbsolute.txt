@@ -1,0 +1,11 @@
+C:\Users\dyudy\Desktop\projects c#\labirint\bin\Debug\labirint.exe.config
+C:\Users\dyudy\Desktop\projects c#\labirint\bin\Debug\labirint.exe
+C:\Users\dyudy\Desktop\projects c#\labirint\bin\Debug\labirint.pdb
+C:\Users\dyudy\Desktop\projects c#\labirint\obj\Debug\labirint.csproj.AssemblyReference.cache
+C:\Users\dyudy\Desktop\projects c#\labirint\obj\Debug\labirint.csproj.SuggestedBindingRedirects.cache
+C:\Users\dyudy\Desktop\projects c#\labirint\obj\Debug\labirint.Form1.resources
+C:\Users\dyudy\Desktop\projects c#\labirint\obj\Debug\labirint.Properties.Resources.resources
+C:\Users\dyudy\Desktop\projects c#\labirint\obj\Debug\labirint.csproj.GenerateResource.cache
+C:\Users\dyudy\Desktop\projects c#\labirint\obj\Debug\labirint.csproj.CoreCompileInputs.cache
+C:\Users\dyudy\Desktop\projects c#\labirint\obj\Debug\labirint.exe
+C:\Users\dyudy\Desktop\projects c#\labirint\obj\Debug\labirint.pdb

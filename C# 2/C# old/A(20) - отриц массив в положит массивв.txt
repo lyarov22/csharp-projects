@@ -1,0 +1,16 @@
+//A(20) - отриц массив в положит массивв
+int n = 5; // сколько элементов
+
+int[] A = new int[n];
+Console.WriteLine("Заполнение массива 20 чисел");
+for (int i = 0; i < n; i++) //заполнение массива
+{
+    A[i] = Convert.ToInt32(Console.ReadLine());
+}
+
+Console.WriteLine("отриц в полож");
+for (int i = 0; i < n; i++)
+{
+    A[i] = Math.Abs(A[i]);
+    Console.WriteLine(A[i]);
+}

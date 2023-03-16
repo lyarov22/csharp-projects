@@ -1,0 +1,11 @@
+C:\Users\dyudy\Desktop\projects c#\kontrolnaya\bin\Debug\kontrolnaya.exe.config
+C:\Users\dyudy\Desktop\projects c#\kontrolnaya\bin\Debug\kontrolnaya.exe
+C:\Users\dyudy\Desktop\projects c#\kontrolnaya\bin\Debug\kontrolnaya.pdb
+C:\Users\dyudy\Desktop\projects c#\kontrolnaya\obj\Debug\kontrolnaya.csproj.AssemblyReference.cache
+C:\Users\dyudy\Desktop\projects c#\kontrolnaya\obj\Debug\kontrolnaya.csproj.SuggestedBindingRedirects.cache
+C:\Users\dyudy\Desktop\projects c#\kontrolnaya\obj\Debug\kontrolnaya.Form1.resources
+C:\Users\dyudy\Desktop\projects c#\kontrolnaya\obj\Debug\kontrolnaya.Properties.Resources.resources
+C:\Users\dyudy\Desktop\projects c#\kontrolnaya\obj\Debug\kontrolnaya.csproj.GenerateResource.cache
+C:\Users\dyudy\Desktop\projects c#\kontrolnaya\obj\Debug\kontrolnaya.csproj.CoreCompileInputs.cache
+C:\Users\dyudy\Desktop\projects c#\kontrolnaya\obj\Debug\kontrolnaya.exe
+C:\Users\dyudy\Desktop\projects c#\kontrolnaya\obj\Debug\kontrolnaya.pdb

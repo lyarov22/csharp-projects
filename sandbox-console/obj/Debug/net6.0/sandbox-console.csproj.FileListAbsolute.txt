@@ -1,0 +1,15 @@
+C:\Users\dyudy\OneDrive\Рабочий стол\c# projects\sandbox-console\bin\Debug\net6.0\sandbox-console.exe
+C:\Users\dyudy\OneDrive\Рабочий стол\c# projects\sandbox-console\bin\Debug\net6.0\sandbox-console.deps.json
+C:\Users\dyudy\OneDrive\Рабочий стол\c# projects\sandbox-console\bin\Debug\net6.0\sandbox-console.runtimeconfig.json
+C:\Users\dyudy\OneDrive\Рабочий стол\c# projects\sandbox-console\bin\Debug\net6.0\sandbox-console.dll
+C:\Users\dyudy\OneDrive\Рабочий стол\c# projects\sandbox-console\bin\Debug\net6.0\sandbox-console.pdb
+C:\Users\dyudy\OneDrive\Рабочий стол\c# projects\sandbox-console\obj\Debug\net6.0\sandbox-console.csproj.AssemblyReference.cache
+C:\Users\dyudy\OneDrive\Рабочий стол\c# projects\sandbox-console\obj\Debug\net6.0\sandbox-console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dyudy\OneDrive\Рабочий стол\c# projects\sandbox-console\obj\Debug\net6.0\sandbox-console.AssemblyInfoInputs.cache
+C:\Users\dyudy\OneDrive\Рабочий стол\c# projects\sandbox-console\obj\Debug\net6.0\sandbox-console.AssemblyInfo.cs
+C:\Users\dyudy\OneDrive\Рабочий стол\c# projects\sandbox-console\obj\Debug\net6.0\sandbox-console.csproj.CoreCompileInputs.cache
+C:\Users\dyudy\OneDrive\Рабочий стол\c# projects\sandbox-console\obj\Debug\net6.0\sandbox-console.dll
+C:\Users\dyudy\OneDrive\Рабочий стол\c# projects\sandbox-console\obj\Debug\net6.0\refint\sandbox-console.dll
+C:\Users\dyudy\OneDrive\Рабочий стол\c# projects\sandbox-console\obj\Debug\net6.0\sandbox-console.pdb
+C:\Users\dyudy\OneDrive\Рабочий стол\c# projects\sandbox-console\obj\Debug\net6.0\sandbox-console.genruntimeconfig.cache
+C:\Users\dyudy\OneDrive\Рабочий стол\c# projects\sandbox-console\obj\Debug\net6.0\ref\sandbox-console.dll

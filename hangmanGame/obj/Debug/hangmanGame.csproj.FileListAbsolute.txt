@@ -1,0 +1,30 @@
+C:\Users\dyudy\Desktop\projects c#\hangmanGame\bin\Debug\hangmanGame.exe.config
+C:\Users\dyudy\Desktop\projects c#\hangmanGame\bin\Debug\hangmanGame.exe
+C:\Users\dyudy\Desktop\projects c#\hangmanGame\bin\Debug\hangmanGame.pdb
+C:\Users\dyudy\Desktop\projects c#\hangmanGame\obj\Debug\hangmanGame.csproj.AssemblyReference.cache
+C:\Users\dyudy\Desktop\projects c#\hangmanGame\obj\Debug\hangmanGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\dyudy\Desktop\projects c#\hangmanGame\obj\Debug\hangmanGame.Form1.resources
+C:\Users\dyudy\Desktop\projects c#\hangmanGame\obj\Debug\hangmanGame.Properties.Resources.resources
+C:\Users\dyudy\Desktop\projects c#\hangmanGame\obj\Debug\hangmanGame.csproj.GenerateResource.cache
+C:\Users\dyudy\Desktop\projects c#\hangmanGame\obj\Debug\hangmanGame.csproj.CoreCompileInputs.cache
+C:\Users\dyudy\Desktop\projects c#\hangmanGame\obj\Debug\hangmanGame.exe
+C:\Users\dyudy\Desktop\projects c#\hangmanGame\obj\Debug\hangmanGame.pdb
+C:\Users\dyudy\Desktop\projects c#\hangmanGame\bin\Debug\ru\hangmanGame.resources.dll
+C:\Users\dyudy\Desktop\projects c#\hangmanGame\obj\Debug\hangmanGame.Form1.ru.resources
+C:\Users\dyudy\Desktop\projects c#\hangmanGame\obj\Debug\ru\hangmanGame.resources.dll
+C:\Users\dyudy\Desktop\projects c#\hangmanGame\obj\Debug\hangmanGame.FormAbout.resources
+C:\Users\dyudy\Desktop\hangmanGame\bin\Debug\hangmanGame.exe.config
+C:\Users\dyudy\Desktop\hangmanGame\bin\Debug\hangmanGame.exe
+C:\Users\dyudy\Desktop\hangmanGame\bin\Debug\hangmanGame.pdb
+C:\Users\dyudy\Desktop\hangmanGame\bin\Debug\ru\hangmanGame.resources.dll
+C:\Users\dyudy\Desktop\hangmanGame\obj\Debug\hangmanGame.csproj.AssemblyReference.cache
+C:\Users\dyudy\Desktop\hangmanGame\obj\Debug\hangmanGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\dyudy\Desktop\hangmanGame\obj\Debug\hangmanGame.Form1.resources
+C:\Users\dyudy\Desktop\hangmanGame\obj\Debug\hangmanGame.FormAbout.resources
+C:\Users\dyudy\Desktop\hangmanGame\obj\Debug\hangmanGame.Properties.Resources.resources
+C:\Users\dyudy\Desktop\hangmanGame\obj\Debug\hangmanGame.Form1.ru.resources
+C:\Users\dyudy\Desktop\hangmanGame\obj\Debug\hangmanGame.csproj.GenerateResource.cache
+C:\Users\dyudy\Desktop\hangmanGame\obj\Debug\hangmanGame.csproj.CoreCompileInputs.cache
+C:\Users\dyudy\Desktop\hangmanGame\obj\Debug\ru\hangmanGame.resources.dll
+C:\Users\dyudy\Desktop\hangmanGame\obj\Debug\hangmanGame.exe
+C:\Users\dyudy\Desktop\hangmanGame\obj\Debug\hangmanGame.pdb
